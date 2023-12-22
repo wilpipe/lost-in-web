@@ -69,3 +69,17 @@ button {
     font-style: italic;
     margin: auto;
 }
+.hexagono{
+    width: 30%;
+}
+#features {
+
+}
+
+.features-titles{
+ color: #ED1C24;
+}
+.features-images{
+    width: 50px;
+    justify-content: space-between;
+}
